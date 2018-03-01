@@ -1,0 +1,6 @@
+hogedriven:
+  yml:
+    tab: "\t"
+    space: " "
+    space.unicode: "\u0020"
+
