@@ -1,7 +1,8 @@
-
-Spring Boot 1.5.x から 2.0.x へのマイグレーション。
+# Spring Boot 1.5.x から 2.0.x へのマイグレーションのメモ
 
 https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.0-Migration-Guide
+
+書いてなことで差があるところをなるべくミニマムにやる。
 
 # application.properties の空白
 
