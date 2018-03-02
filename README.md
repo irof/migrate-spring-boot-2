@@ -13,7 +13,7 @@ https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.0-Migration-Gu
 
 ```
 hogedriven.properties.tab=\t
-hogedriven.properties.space=
+hogedriven.properties.space= 
 hogedriven.properties.space.unicode=\u0020
 ```
 
