@@ -1,0 +1,16 @@
+plugins {
+    id 'org.springframework.boot' version '2.0.0.RELEASE'
+}
+apply plugin: 'java'
+
+sourceCompatibility = targetCompatibility = 1.8
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-dependencies:2.0.0.RELEASE'
+    compile "org.springframework.boot:spring-boot-starter"
+}
+
